@@ -50,6 +50,9 @@ function generateMarkdown(data) {
   - [GitHub Profile](https://github.com/${data.Username})
 
   For additional questions please reach out to me: ${data.Email}.
+
+  ## Demo
+  ![Video demo](./video/Readme_generator_project_demo.mp4)
 `;
 }
 
