@@ -23,7 +23,7 @@
 
   ## License
   Notice: For more information about the license, click on the link below.
-  ![License link](https://choosealicense.com/licenses/MIT/)
+  [License link](https://choosealicense.com/licenses/mit/)
 
   ## Contribution
   you can contribute be emailing me
@@ -38,4 +38,4 @@
   For additional questions please reach out to me: Ajiyafaruk@gmail.com.
 
   ## Demo
-  ![Video demo](./video/Readme_generator_project_demo.mp4)
+  - [Video demo link](https://drive.google.com/file/d/1tSWOl5NtNtAfKstk9pPyshiK8bW5Y6t9/view)
